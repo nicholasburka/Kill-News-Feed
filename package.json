@@ -1,0 +1,18 @@
+{
+  "name": "killnewsfeed",
+  "title": "Kill News Feed for Firefox",
+  "id": "jid1-OKBfo3lYFPxDBg",
+  "description": "Removes your Facebook News Feed",
+  "author": "Nicholas Burka",
+  "license": "MPL 2.0",
+  "version": "0.3.1",
+  "icon": "data/killnews-64.png",
+
+  "preferences": [{
+  	"type": "bool",
+  	"name": "isOn",
+  	"value": false,
+  	"label": "Kill News Feed Switch",
+  	"title": "Kill News Feed"
+  	}]
+}
