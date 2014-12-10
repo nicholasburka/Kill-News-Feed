@@ -5,7 +5,7 @@
   "description": "Removes your Facebook News Feed",
   "author": "Nicholas Burka",
   "license": "MPL 2.0",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "icon": "data/killnews-64.png",
 
   "preferences": [{
