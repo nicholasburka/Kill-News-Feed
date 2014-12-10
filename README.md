@@ -1,0 +1,1 @@
+Kill News Feed for Firefox, based off Kill News Feed by Neal Wu, removes your Facebook News Feed as well as the trending section of the sidebar. More info here: https://addons.mozilla.org/en-US/firefox/addon/kill-news-feed-for-firefox/
